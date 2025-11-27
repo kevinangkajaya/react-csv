@@ -8,6 +8,9 @@
 
 # Overview :
 
+Note: The original has already fixed the problem by v2.2.2.
+This is the fork from [react-csv/react-csv](https://github.com/react-csv/react-csv), created to fix integration with Vite projects.
+
 Generate a CSV file from given data.
 
 This data can be an array of arrays, an array of literal objects, or strings.
